@@ -1,1 +1,3 @@
 # data_engineering
+# coming soon...
+SQL systems, ETL pipelines, APIs, data infrastructure
